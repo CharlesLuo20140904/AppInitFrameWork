@@ -1,0 +1,16 @@
+PODS:
+  - AppInitFrameWork (0.1.0)
+
+DEPENDENCIES:
+  - AppInitFrameWork (from `../`)
+
+EXTERNAL SOURCES:
+  AppInitFrameWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AppInitFrameWork: da5456dc6476afabd452c77506e003f09a8ccbcb
+
+PODFILE CHECKSUM: 4ec34b332d9e182a2b53b5f6e8ddd236ab8df0a9
+
+COCOAPODS: 1.7.3
